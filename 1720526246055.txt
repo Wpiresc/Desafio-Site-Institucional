@@ -1,0 +1,44 @@
+Página Inicial
+
+1. Cabeçalho:
+
+* Logotipo do Grupo ProSaúde.
+* Menu de navegação com links para as seções: História, Missão, Visão e Valores, Empresas, Filiais, Sites do Grupo, Contato.
+
+2. Seção: História
+
+* Título: "Nossa História"
+* Texto breve sobre o surgimento do Grupo ProSaúde.
+
+3. Seção: Missão, Visão e Valores
+
+* Título: "Missão, Visão e Valores"
+* Missão: Texto sobre a missão do grupo.
+* Visão: Texto sobre a visão do grupo.
+* Valores: Lista dos valores do grupo.
+
+4. Seção: Empresas do Grupo
+
+* Título: "Nossas Empresas"
+* Lista com as empresas que fazem parte do grupo, cada uma com uma imagem representativa e uma breve descrição.
+
+5. Seção: Filiais
+
+* Título: "Nossas Filiais"
+* Lista das filiais com endereços.
+
+6. Seção: Atalhos para Sites do Grupo
+
+* Título: "Nossos Sites"
+* Links rápidos para os sites da ótica, plano, clínica e prosys.
+
+7. Seção: Endereço da Sede
+
+* Título: "Endereço da Sede"
+* Endereço completo da sede do Grupo ProSaúde.
+
+8. Rodapé:
+
+* Telefones de contato.
+* Link para "Trabalhe Conosco".
+* Ícones e links para as redes sociais (Facebook, LinkedIn, Instagram, etc.).

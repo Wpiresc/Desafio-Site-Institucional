@@ -1,0 +1,134 @@
+@charset "UTF-8";
+    
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image:url(https://www.conexasaude.com.br/blog/wp-content/uploads/2021/08/o-que-e-cuidado-integrado-768x401.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    }
+
+header {
+    background-color: rgb(0, 255, 221);
+}
+
+header > img {
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-bottom: 5px;
+}
+
+header > nav > a {
+    padding: 15px;
+    border: 0px solid white;
+    border-radius: 40px;
+    color: white;
+    background-color: rgb(0, 196, 170);
+    text-decoration: none;
+    flex-wrap: wrap;
+}
+
+header > nav > a:hover {
+    background-color: rgb(65, 197, 197);
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.nav {
+    flex-wrap: wrap;
+}
+
+main {
+    padding: 20px;
+    border-radius: 10px;    
+}
+
+li {
+    list-style: none;
+    padding: 4px;
+}
+
+.texto {
+    margin-top: 20px;
+    max-width: 900px ;
+    min-width: 350px;
+}
+
+.texto2 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.container {
+    display: flex;
+    text-align: justify;
+    margin-top: 20px;
+    padding-right: 30px;
+}
+
+.container2 {
+    display: block;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+.container img {
+    max-width: 50%;
+    margin-right: 20px;
+    padding-top: 25px;
+    margin-left: 20px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+h1, p, h3 {
+    padding: 20px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+footer {
+    background-color: rgba(0, 255, 170, 0.185);
+    padding: 10px;
+}
+
+.telefone {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+@media (max-width:600px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    nav a {
+        width: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    .container {
+    display: grid;
+    text-align: justify;
+    margin-top: 20px;
+    }
+}
+
+@media (min-width:601 and max-width:1200){
+    body{
+        overflow-x: hidden;
+    }
+}
